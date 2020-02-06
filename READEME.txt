@@ -1,0 +1,11 @@
+Thomas Chung's Portfolio
+==================================================
+Bike Rental Database
+
+This project is was originally an lab in a database class I took at NAIT.
+
+The major aspects of programming thats are in this query are:
+- Creation and deconstruction of a database
+- Uses of primary and foreign keys for tables
+- Pre-built methods that give the user easy access to data
+
